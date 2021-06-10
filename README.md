@@ -1,5 +1,5 @@
 # data-structures-all-langs
-A repository that contains explanations and (custom) implementations of the most popular data structures in various languages.
+A repository that contains explanations and (custom) implementations of the most popular data structures in C#.
 
 # The Goal
 Hi friend, welcome 🎉.
@@ -13,14 +13,8 @@ This project wasn't written as a deployable service. To explore the project:
 * Try running the code in each coding file using the driver code. If an implementation doesn't have any driver code, please create an issue
 * Enjoy your life
 
-## Author(s)
-* [Ayomide Oyekanmi](https://github.com/oyekanmiayo)
+## Author
+* The author of the README files in this repository is  [Ayomide Oyekanmi](https://github.com/oyekanmiayo)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
-
-## Contributions
-Contributions are very welcome. Read the [contributing guide](https://github.com/oyekanmiayo/data-structures-all-langs/blob/main/CONTRIBUTING.md).
-
-## Contributors
-This will list people who have made significant contributions.
