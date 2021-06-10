@@ -4,13 +4,12 @@ Each parent node has at most 2 children nodes, which are called its left and rig
 A binary search tree is an ordered data structure and it is arranged in such a way that the nodes placed on the left side of the root are smaller than the root and nodes placed on the right side of the root are bigger than the root.
 A childless node is called a leaf.
 
-<img src="images/binary-search-tree-skewed-11f9018ed31f7d89.png
-" height="75" width="200"/>
+<img src="images/bst.png" height="75" width="200"/>
 
 From the above image, we can conclude that a binary search tree is a recursive data structure, in the sense that, the left child is always smaller than its parent and the right child is always bigger than its parent.
 Binary Search Trees are used in the real world, in game development and also in compilers.
 
-<img src="images/directed-graph.png" height="75" width="200"/>
+<img src="images/binary-search-tree-skewed-11f9018ed31f7d89.png" height="75" width="200"/>
  
 The above image is still as a binary search tree, and it is called a skewed binary search tree, it is the worst case scenario for a binary search tree
 
